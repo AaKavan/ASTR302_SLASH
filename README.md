@@ -5,8 +5,6 @@ The structure is as follows:
 - Create a directory named data/ inside the repo
 - Place your data in this data/ directory. I am not tracking it with Git, since Git has a file size limit, and is not meant to be used for data.
 - After you have your data in there, follow this format:
-- After you have your data in there, follow this format:
-
 ```
 $ tree -d
 .
